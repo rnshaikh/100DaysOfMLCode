@@ -7,3 +7,6 @@
     and find pattern and we can make prediction using this pattern
 
 
+# Day2 (High School Math):
+    Done With plotting distribution, historgram and reading it. studied mean, median, mode. finding missing data point if mean is given. studied
+    range, variance, standard deviation, interquratile range, creating box plot for iqr
