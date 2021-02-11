@@ -13,3 +13,6 @@
 
 # Day3 (High School Math):
     Done With Data Distributions comparing, reading two way frequency table, creating two-way frequency table, reading two-way relative frequency table, and creating two-way relative frequency table, intepreting two-way frequency table.
+
+# Day4 (High School Math):
+    Done with two-way frequency table whose show relationship between cateogrical variables. its unit test.
