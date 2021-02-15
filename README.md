@@ -17,6 +17,10 @@
 # Day4 (High School Math):
     Done with two-way frequency table whose show relationship between cateogrical variables. its unit test.
 
-# Day4 (High School Math):
-    Done With Sample and Survey. I have learned about types of collecting sample random, systematic, stratified, cluster, recognising valid claimes based on given sample.
+# Day5 (High School Math):
+    Done with Sample and Survey. I have learned about types of collecting sample random, systematic, stratified, cluster, recognising valid claimes based on given sample.
     making inferences from random samples.
+    
+# Day6 (High School Math):
+    Done with Different type of statistical studies and experiments. Learned how to identify appropriate statistical study sample,observational or experiment for given problem.
+learned cause and effect and correlations    
