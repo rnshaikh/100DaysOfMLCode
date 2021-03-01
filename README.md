@@ -22,5 +22,8 @@
     making inferences from random samples.
     
 # Day6 (High School Math):
-    Done with Different type of statistical studies and experiments. Learned how to identify appropriate statistical study sample,observational or experiment for given problem.
-learned cause and effect and correlations    
+    Done with Different type of statistical studies and experiments. Learned how to identify appropriate statistical study sample,observational or experiment for given problem. learned cause and effect and correlations    
+
+# Day7 (High School Math):
+    Done with Probability. I have learned about simple probability, experimental probability, making prediction with probability, comparing probabilties, probability model, counting principal, permutations and combinations.
+   
