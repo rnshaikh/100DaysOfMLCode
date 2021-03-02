@@ -33,5 +33,5 @@
     making prediction with probability, comparing probabilties, probability model, counting principal, permutations and combinations.
     
 # Day7 (High School Math):
-   I have completed probability with counting, permutation and combination and done it practice.
+    I have completed probability with counting, permutation and combination and done it practice.
    
