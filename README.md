@@ -40,4 +40,9 @@
     free throw probability, identifying independent and dependent probability.
     multiplicayion rules for dependent probability. done its practice
 
+# Day8 (High School Math: Adding probabilities and venn diagram etc):
+    I have competed adding probabilites using venn diagram and two way tables.
+    also quiz for independent and dependant probability, adding probabilities.
+    
+
    
