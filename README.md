@@ -41,8 +41,8 @@
     multiplicayion rules for dependent probability. done its practice
 
 # Day8 (High School Math: Adding probabilities and venn diagram etc):
-    I have competed adding probabilites using venn diagram and two way tables.
+    I have completed adding probabilites using venn diagram and two way tables.
     also quiz for independent and dependant probability, adding probabilities.
     
-
-   
+# Day9 (High School Math: Probability Test, Polynomial Distribution, Normal Distribution(Empirical rule) etc):
+    I completed probabiltiy Test, Polynomial Distrbution, Normal Distribution (empirical rule).
