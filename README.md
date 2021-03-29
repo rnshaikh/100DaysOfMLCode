@@ -46,3 +46,9 @@
     
 # Day9 (High School Math: Probability Test, Polynomial Distribution, Normal Distribution(Empirical rule) etc):
     I completed probabiltiy Test, Polynomial Distrbution, Normal Distribution (empirical rule).
+
+# Day 10 (Statistics:Udacity):
+    Complete first five units of statistics from udacity. 
+    gone through scatterplot, barchart, histogram, piechart, admissions case study, looking at data
+
+
