@@ -51,4 +51,7 @@
     Complete first five units of statistics from udacity. 
     gone through scatterplot, barchart, histogram, piechart, admissions case study, looking at data
 
+# Day 11 (Statistics:Udacity): 
+    gone through probability and conditional probability of statistics udacity
+
 
