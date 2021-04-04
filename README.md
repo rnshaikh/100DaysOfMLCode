@@ -57,5 +57,5 @@
 
 # Day 11 (Statistics:Udacity):
     gone through Bayes Rule for calculating posterior probability
-    [a relative link](Probability/ReadMe.md)
+    [Bayes Rule](Probability/ReadMe.md)
 
