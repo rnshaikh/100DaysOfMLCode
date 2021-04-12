@@ -61,5 +61,5 @@
     gone through Bayes Rule for calculating posterior probability
    
 # Day12 (Statistics:Udacity):
-    [Bayes Rule](Probability/ReadMe.md)
+   [Bayes Rule](Probability/ReadMe.md)
     goned through programming of bayes rules unit
