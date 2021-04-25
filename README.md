@@ -63,3 +63,7 @@
 # Day12 (Statistics:Udacity):
    [Bayes Rule](Probability/ReadMe.md)
     goned through programming of bayes rules unit
+
+# Day12 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through probability Distributions. range probability.
