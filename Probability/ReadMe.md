@@ -68,22 +68,22 @@
 
 
 
-# probability Distributions:
+# Probability Distributions:
 
-In continous Distributions, every outcome has probability 0
+    In continous Distributions, every outcome has probability 0
 
-ex. probability of spining pen in circle landing at 180 is 0
+    ex. probability of spining pen in circle landing at 180 is 0
 
 
 # Range probility Instead
 
-ex. p(0<=x<=180) = 1/2 chances landing between 0-180 and 180-360
+    ex. p(0<=x<=180) = 1/2 chances landing between 0-180 and 180-360
 
-ex. p(260 <= x <= 290) = 1/12 chances landing between 260-290 and 290-320 so on.
+    ex. p(260 <= x <= 290) = 1/12 chances landing between 260-290 and 290-320 so on.
 
-ex. p(0 <= x <= 1) = 1/360 chances landing in 1 degree range
+    ex. p(0 <= x <= 1) = 1/360 chances landing in 1 degree range
 
-p(a<= x <= b) = size(b-a)/360
+    p(a<= x <= b) = size(b-a)/360
 
 
 
