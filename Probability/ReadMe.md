@@ -113,9 +113,9 @@ p(a<= x <= b) = size(b-a)/360
 
     f(x before noon) = 2(x after noon)
 
-  b  |_____
-  a  |_____|____
-     |_________x_____
+      b  |_____
+      a  |_____|____
+         |_________x_____
 
      3 part of density
 
