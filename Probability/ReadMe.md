@@ -45,26 +45,26 @@
 
 
 
-P(home| rain) = P(home) * P(rain|home)  = 0.4 * 0.01 = 0.004
+    P(home| rain) = P(home) * P(rain|home)  = 0.4 * 0.01 = 0.004
 
-P(gone|rain)  = P(gone) * P(rain|gone) = 0.6* 0.3 = 0.18
+    P(gone|rain)  = P(gone) * P(rain|gone) = 0.6* 0.3 = 0.18
 
-P(rain)  = P(home| rain) + P(gone | rain) =  0.184
-
-
-
-P(H) = P(c1 | H) + P(c2 | H)
-
-P(c1| H) = P(C1)* P(H|C1) = 0.15
-
-p(c2| H) = P(c2) * P(H|C2) = 0.63
+    P(rain)  = P(home| rain) + P(gone | rain) =  0.184
 
 
 
-p(c|neg)  = p(c) * p(tn|c)
+    P(H) = P(c1 | H) + P(c2 | H)
 
-p(>c}neg) = p(>c) * p(tn|>c)
-p(neg) = p(c/neg) + p(>c|neg)
+    P(c1| H) = P(C1)* P(H|C1) = 0.15
+
+    p(c2| H) = P(c2) * P(H|C2) = 0.63
+
+
+
+    p(c|neg)  = p(c) * p(tn|c)
+
+    p(>c}neg) = p(>c) * p(tn|>c)
+    p(neg) = p(c/neg) + p(>c|neg)
 
 
 
