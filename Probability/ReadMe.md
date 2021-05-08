@@ -85,3 +85,47 @@ ex. p(0 <= x <= 1) = 1/360 chances landing in 1 degree range
 
 p(a<= x <= b) = size(b-a)/360
 
+
+
+# Density:
+
+    f(x) == probability of continous distribution.
+
+    constraints: 1) each outcome has equal value.
+                 2) area under density is equal or greater than 1
+                 3) alwayse positive
+
+    density of point in 0-360
+
+    f(x) = 1/360 = 0.00277
+
+
+    ex.2) date and time you were born
+    x= seconds
+
+    p(x) =  0  as it is continous distributions
+    f(x) =  1/60 = 0.01666
+
+
+
+    ex.3) people born before noon twice as likely as people born after noon
+    x= hours
+
+    f(x before noon) = 2(x after noon)
+
+  b  |_____
+  a  |_____|____
+     |_________x_____
+
+     3 part of density
+
+     a = 1/3 * 1/12 = 0.02777777777
+
+     b = 2*a = 0.055555
+
+
+     ex.4) density between 3 to 3/12 min
+
+     x=min
+
+    f(x) = 1/(1/2) = 2
