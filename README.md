@@ -64,6 +64,10 @@
    [Bayes Rule](Probability/ReadMe.md)
     goned through programming of bayes rules unit
 
-# Day12 (Statistics:Udacity):
+# Day13 (Statistics:Udacity):
    [Probiltiy Distributions](Probability/ReadMe.md)
     Gone through probability Distributions. range probability.
+    
+# Day14 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through Density of countinous distributions and its examples.
