@@ -8,6 +8,18 @@
 #the selected coin. The function pheads may be called and any time and will 
 #return your best estimate of the next flip landing on heads.
 
+"""
+p(coin | flip)  = p(coin) * p(flip | coin) / p(flip)
+
+p(h)  = sum(p(coin)*p(h))
+
+p(coin | h)  = p(coin) * p(h) / p(h)
+
+p(coin | t) = p(1-coin) * p(h) / p(1-h)
+
+"""
+
+
 
 from __future__ import division
 class FlipPredictor(object):
