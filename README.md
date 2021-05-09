@@ -71,3 +71,8 @@
 # Day14 (Statistics:Udacity):
    [Probiltiy Distributions](Probability/ReadMe.md)
     Gone through Density of countinous distributions and its examples.
+
+# Day15 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through corelation and casuation and probability set-2 .
+    
