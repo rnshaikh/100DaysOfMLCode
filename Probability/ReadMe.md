@@ -129,3 +129,21 @@
      x=min
 
     f(x) = 1/(1/2) = 2
+ 
+# Corelation and Causation:
+
+    correlation :  if x some of property tells something about other property y in data plot on graph.
+
+    causation :  tells about what is cause of x being happend.
+
+
+    ex.   sick     in-hospital -- 4 died out 100
+                   in-home ----> 20 died out 100
+
+          here variable in-hospital is correlate with dead
+          and cause is sick which cause to hospitalized but it is ignore in statistics
+
+
+
+
+
