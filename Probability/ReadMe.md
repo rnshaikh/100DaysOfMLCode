@@ -144,6 +144,35 @@
           and cause is sick which cause to hospitalized but it is ignore in statistics
 
 
-
+# Estimation
+    
+    there are two types of estimation.
+    MLE = minimum likelihood estimator
+    LPC = Laplacian estimator
+    
+    MLE = possible outcome / total no of out come
+     
+    if there is not much data then we add fake data for every possible outcome
+    then MLE become Laplace estimator
+    
+    ex. 1) 1011 : 1-head 0-tail
+    MLE?  MLE = 3/4 = 0.8
+    
+    ex. 2) 0 
+        MLE = 0
+    in this case add fake data
+        010     
+        LPC = 1/2 = 0.5
+   
+        
+        
+        
+    
+    
+    
+    
+    
+    
+    
 
 
