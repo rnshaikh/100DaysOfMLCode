@@ -75,4 +75,8 @@
 # Day15 (Statistics:Udacity):
    [Probiltiy Distributions](Probability/ReadMe.md)
     Gone through corelation and casuation and probability set-2 .
+
+# Day16 (Statistics:Udacity):
+   [Estimator](Probability/ReadMe.md)
+    Gone through Estimation unit of udacity.
     
