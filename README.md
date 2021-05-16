@@ -81,7 +81,7 @@
     Gone through Estimation unit of udacity.
 
 # Day17 (Statistics:Udacity):
-   [Averages](Avarages/README.md)
+   [Averages](Averages/README.md)
     Gone through Averages, mean, median, mode and 
     variance and standard deviation of udacity unit.
     
