@@ -79,4 +79,9 @@
 # Day16 (Statistics:Udacity):
    [Estimator](Probability/ReadMe.md)
     Gone through Estimation unit of udacity.
+
+# Day17 (Statistics:Udacity):
+   [Averages](Avarages/ReadMe.md)
+    Gone through Averages, mean, median, mode and 
+    variance and standard deviation of udacity unit.
     
