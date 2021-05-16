@@ -63,3 +63,20 @@
 # Day12 (Statistics:Udacity):
    [Bayes Rule](Probability/ReadMe.md)
     goned through programming of bayes rules unit
+
+# Day13 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through probability Distributions. range probability.
+    
+# Day14 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through Density of countinous distributions and its examples.
+
+# Day15 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through corelation and casuation and probability set-2 .
+
+# Day16 (Statistics:Udacity):
+   [Estimator](Probability/ReadMe.md)
+    Gone through Estimation unit of udacity.
+    
