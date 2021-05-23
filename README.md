@@ -81,16 +81,7 @@
     Gone through Estimation unit of udacity.
 
 # Day17 (Statistics:Udacity):
-<<<<<<< HEAD
    [Estimator](Probability/ReadMe.md)
     Gone through Estimatior proramming unit, problem set3.
     Also gone through outliers and interquartile range.
 
-
-
-=======
-   [Averages](Averages/README.md)
-    Gone through Averages, mean, median, mode and 
-    variance and standard deviation of udacity unit.
-    
->>>>>>> bd39d086df9e3e5c55b578a438ea9a0c698f894e
