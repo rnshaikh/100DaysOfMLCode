@@ -51,6 +51,9 @@
 
     zee = x-mu/sigma
 
+    Variance Correction Factor:
+        calulated vairance =  expected variance * n/n-1
+
 
 # outliers
 
@@ -72,14 +75,6 @@
 
         q1 = 2
         q3 = 6
-
-
-
-
-
-
-
-
 
 
 
