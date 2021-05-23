@@ -50,4 +50,10 @@
     standard Score of given data in series
 
     delta = x-mu/sigma
-
+    
+    Variance Correction Factor:
+        calulated vairance =  expected variance * n/n-1        
+    
+    
+    
+    
