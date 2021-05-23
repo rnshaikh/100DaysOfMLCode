@@ -49,5 +49,43 @@
 
     standard Score of given data in series
 
-    delta = x-mu/sigma
+    zee = x-mu/sigma
+
+
+# outliers
+
+    data point which is drastically differ from other data point that is removed from stastics.
+    for this we use interqurtile range
+
+
+    interquartile range = upper quartile Q3 - lower quartile Q1
+
+
+    1) for even data set
+        1, 3, 4, 5, 5, 6, 7, 11
+
+        q1 = 3+4/2
+        q3 = 6+7/2
+
+    2) for odd data set:
+        1 ,2 ,3, 4, 5,6, 7
+
+        q1 = 2
+        q3 = 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
