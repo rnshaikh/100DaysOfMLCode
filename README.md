@@ -84,3 +84,7 @@
    [Estimator](Probability/ReadMe.md)
     Gone through Estimatior proramming unit, problem set3.
     Also gone through outliers and interquartile range.
+
+# Day18 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through Bionomial Distribution and its example.    
