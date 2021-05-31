@@ -129,7 +129,7 @@
      x=min
 
     f(x) = 1/(1/2) = 2
- 
+
 # Corelation and Causation:
 
     correlation :  if x some of property tells something about other property y in data plot on graph.
@@ -145,35 +145,35 @@
 
 
 # Estimation
-    
+
     there are two types of estimation.
     MLE = minimum likelihood estimator
     LPC = Laplacian estimator
-    
+
     MLE = possible outcome / total no of out come
-     
+
     if there is not much data then we add fake data for every possible outcome
     then MLE become Laplace estimator
-    
+
     ex. 1) 1011 : 1-head 0-tail
     MLE?  MLE = 3/4 = 0.8
-    
-    ex. 2) 0 
+
+    ex. 2) 0
         MLE = 0
     in this case add fake data
-        010     
+        010
         LPC = 1/2 = 0.5
-   
-        
-        
-        
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
+
+
+
+
 
 
 ex. p(260 <= x <= 290) = 1/12 chances landing between 260-290 and 290-320 so on.
@@ -260,9 +260,21 @@ p(coin | t) = p(1-coin) * p(h) / p(1-h)
 
 
 
+# Binomial Distribution:
 
+  binomial distribution is used when there large no of experiment of same you have to find probability of event same type
 
+  for computing we use combination
 
+  accumulative outcome of many coin flip
+
+  for ex. fliping coin  n times what is probability of coming head k times  == p(head) = 0.8
+
+    n!/(n-k)!*k!  *  p^k * (1-p)^(n-k)
+
+    fliping coin 5 times what is p(h=3)
+
+    5!/3!*2! * (0.8)^3 * (0.2)^2
 
 
 
