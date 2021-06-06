@@ -308,7 +308,10 @@ p(coin | t) = p(1-coin) * p(h) / p(1-h)
     f(x) =   1/ root of 2 *pi *sigma2   *   e raised to (-1/2 (x-mu)2/sigma2)
     
     
+    for single coin flip or event we used simple probability.
+    for few events or coin flips we used bionomial distributions
     
+    for 10,000 or more coin flips we use normal distributions.
     
     
 
