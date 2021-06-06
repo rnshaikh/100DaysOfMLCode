@@ -295,4 +295,21 @@ p(coin | t) = p(1-coin) * p(h) / p(1-h)
     if there is 3 outcom then we take addition of left 3 numbers
     
 
+# Normal Distribution:
+    
+    it is aproximation of Bionomial Distribution it used to sum of many experiment.
+    it normailized distribuition.
+    
+    its curve is bell curve area under it is not 1 but root of 2pisigm2
+    
+    normal distribution formula with mean mu and sigma2 
+    
+    
+    f(x) =   1/2 *pi *sigma2   *   e raised to (-1/2 (x-mu)2/sigma2)
+    
+    
+    
+    
+    
+
 
