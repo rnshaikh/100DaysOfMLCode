@@ -277,5 +277,22 @@ p(coin | t) = p(1-coin) * p(h) / p(1-h)
     5!/3!*2! * (0.8)^3 * (0.2)^2
 
 
+# Central Limit Theoram:
+    
+    it is about sum of large or many experiment mostly n>=30
+    then it is result is function jusk like gaussian graph
+    
+    we use formula n!/n-k! * k!
+    
+    example if coin is tossed many time what is outcome
+            k=0    1    2     3    4
+    n=1      1     1
+    n=2      1     2    1 
+    n=3      1     3    3     1
+    n=4      1     4    6     4    1
+    
+    this pascal triangle
+    if there is 3 outcom then we take addition of left 3 numbers
+    
 
 
