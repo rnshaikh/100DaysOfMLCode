@@ -305,7 +305,7 @@ p(coin | t) = p(1-coin) * p(h) / p(1-h)
     normal distribution formula with mean mu and sigma2 
     
     
-    f(x) =   1/2 *pi *sigma2   *   e raised to (-1/2 (x-mu)2/sigma2)
+    f(x) =   1/ root of 2 *pi *sigma2   *   e raised to (-1/2 (x-mu)2/sigma2)
     
     
     
