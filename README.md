@@ -87,4 +87,10 @@
 
 # Day18 (Statistics:Udacity):
    [Probiltiy Distributions](Probability/ReadMe.md)
-    Gone through Bionomial Distribution and its example.    
+    Gone through Bionomial Distribution and its example.
+
+# Day19 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through central limit theoram of bell curve for bionomial distribution it prgram.
+    and normal distribution and its formula.
+    
