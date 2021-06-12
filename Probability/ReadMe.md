@@ -314,5 +314,21 @@ p(coin | t) = p(1-coin) * p(h) / p(1-h)
     for 10,000 or more coin flips we use normal distributions.
     
     
+# Manipulating Normal Distribution:
+    effect on mean and variance and standard deviation by adding contants
+    if add x in elements then mean is increased by x and variance and standard deviation have no effect
+    if multiply x in elemet then mean= mean*x and varaince sigma2 = x2*sigma@  and stand dev = square root of x*stand dev
+    
+    if you add 2 guassians then mean = 2*mean, variance = 2*variance
+    
+    
+    A(mu, sigma2)   B(mu, sigma2)
+    if A-B then mean=0, variance = 2*variance
+    
+    
+    
+    
+    
+    
 
 
