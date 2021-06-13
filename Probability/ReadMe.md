@@ -164,25 +164,15 @@
         010
         LPC = 1/2 = 0.5
 
+    ex. p(260 <= x <= 290) = 1/12 chances landing between 260-290 and 290-320 so on.
 
 
+    ex. p(0 <= x <= 1) = 1/360 chances landing in 1 degree range
 
 
-
-
-
-
-
-
-
-
-ex. p(260 <= x <= 290) = 1/12 chances landing between 260-290 and 290-320 so on.
-
-
-ex. p(0 <= x <= 1) = 1/360 chances landing in 1 degree range
-
-
-p(a<= x <= b) = size(b-a)/360
+    p(a<= x <= b) = size(b-a)/360
+    
+    #find MLE or fit guassian  is nothing but finding finding standard deviation. 
 
 
 
@@ -230,7 +220,7 @@ p(a<= x <= b) = size(b-a)/360
     f(x) = 1/(1/2) = 2
 
 
-    #find MLE or fit guassian  is nothing but finding finding standard deviation. 
+    
 
 
 # Corelation and Causation:
