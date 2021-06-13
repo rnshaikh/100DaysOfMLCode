@@ -97,4 +97,10 @@
 # Day20 (Statistics:Udacity):
    [Probiltiy Distributions](Probability/ReadMe.md)
     Gone through manipulating Normal distribution and its effect on mean and sigma2 and sigma.
+
+# Day21 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through manipulating Normal distribution example, problem set4 and sebastian weight and proofs.
+    
+
     
