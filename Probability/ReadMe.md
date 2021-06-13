@@ -230,7 +230,7 @@ p(a<= x <= b) = size(b-a)/360
     f(x) = 1/(1/2) = 2
 
 
-
+    #find MLE or fit guassian  is nothing but finding finding standard deviation. 
 
 
 # Corelation and Causation:
