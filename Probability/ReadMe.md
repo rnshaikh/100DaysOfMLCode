@@ -225,46 +225,44 @@
 
 # Corelation and Causation:
 
-correlation :  if x some of property tells something about other property y in data plot on graph.
+    correlation :  if x some of property tells something about other property y in data plot on graph.
 
-causation :  tells about what is cause of x being happend.
+    causation :  tells about what is cause of x being happend.
 
 
-ex.   sick     in-hospital -- 4 died out 100
-               in-home ----> 20 died out 100
+    ex.   sick     in-hospital -- 4 died out 100
+                   in-home ----> 20 died out 100
 
       here variable in-hospital is correlate with dead
       and cause is sick which cause to hospitalized but it is ignore in statistics
 
 
 
+    p(coin | flip)  = p(coin) * p(flip | coin) / p(flip)
 
+    p(h)  = sum(p(coin)*p(h))
 
-p(coin | flip)  = p(coin) * p(flip | coin) / p(flip)
+    p(coin | h)  = p(coin) * p(h) / p(h)
 
-p(h)  = sum(p(coin)*p(h))
-
-p(coin | h)  = p(coin) * p(h) / p(h)
-
-p(coin | t) = p(1-coin) * p(h) / p(1-h)
+    p(coin | t) = p(1-coin) * p(h) / p(1-h)
 
 
 
 # Binomial Distribution:
 
-  binomial distribution is used when there large no of experiment of same you have to find probability of event same type
+      binomial distribution is used when there large no of experiment of same you have to find probability of event same type
 
-  for computing we use combination
+      for computing we use combination
 
-  accumulative outcome of many coin flip
+      accumulative outcome of many coin flip
 
-  for ex. fliping coin  n times what is probability of coming head k times  == p(head) = 0.8
+      for ex. fliping coin  n times what is probability of coming head k times  == p(head) = 0.8
 
-    n!/(n-k)!*k!  *  p^k * (1-p)^(n-k)
+      n!/(n-k)!*k!  *  p^k * (1-p)^(n-k)
 
-    fliping coin 5 times what is p(h=3)
+      fliping coin 5 times what is p(h=3)
 
-    5!/3!*2! * (0.8)^3 * (0.2)^2
+      5!/3!*2! * (0.8)^3 * (0.2)^2
 
 
 # Central Limit Theoram:
