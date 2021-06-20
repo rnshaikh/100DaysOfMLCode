@@ -102,5 +102,9 @@
    [Probiltiy Distributions](Probability/ReadMe.md)
     Gone through manipulating Normal distribution example, problem set4 and sebastian weight and proofs.
     
+# Day22 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through Confidence Interval units. new formula for mean and variance and standard deviation
+    
 
     
