@@ -315,8 +315,35 @@ p(coin | t) = p(1-coin) * p(h) / p(1-h)
     A(mu, sigma2)   B(mu, sigma2)
     if A-B then mean=0, variance = 2*variance
     
+
+# Confidence Interval (CI):
+    
+    confidence Interval is gives range where probability can lies. about 95% times probability lies between CI.
+    as no of samples get increases CI range get's decreases and probability accuracy get increases.
+    
+    CI = 1.96 * Standard Deviation (sigma)/square root of N
+    
+    New Variance Formula
+    sigma2 = p-p2
+    
+    New Std deviation Formula
+    sigma = square root of (p-p2)
+    
+    New CI formula will be
+    CI = 1.96 * square root of p(1-p)/N
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
     
     
     
