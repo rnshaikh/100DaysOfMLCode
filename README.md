@@ -106,5 +106,9 @@
    [Probiltiy Distributions](Probability/ReadMe.md)
     Gone through Confidence Interval units. new formula for mean and variance and standard deviation
     
+# Day23 (Statistics:Udacity):
+   [Probiltiy Distributions](Probability/ReadMe.md)
+    Gone through Normal Quantiles Unit.
+    
 
     
