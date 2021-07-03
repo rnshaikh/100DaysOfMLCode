@@ -330,6 +330,22 @@
     New CI formula will be
     CI = 1.96 * square root of p(1-p)/N
     
+# Normal Quantiles (NQ):
+    
+    magic number 1.96 which we used in CI is Normal Quantiles.
+    95% confidence interal have 5% normal quantiles on both sides of gaussian graph in CLT.
+    90% confidence interval have 10% of normal quantiles on both sides of guassian graph on CLT.
+    
+    CI = MEAN +- 1.96 * square root of sigma2/N
+   
+   95% CI = NQ = 1.96
+   90% CI have NQ = 1.64
+   99% CI have NQ = 2.58
+   
+   
+    
+    
+    
     
     
     
