@@ -365,6 +365,11 @@
         0 0 0.01 0.01 0.02
         at 5th hypothesis sums of 0.05 so if 5 patients get cancer out of 10 then hypothesis is failed.
     
+    We can also test hypothesis using Confidence Interval.
+    for ex. given hypothesis we can find out confidence interval which is as follows
+      mean +- 1.96(for 5%) * sq root of sigma2/n 
+      
+      if claim is within this C.I range then it is true. else it is alternate hypothesis is true.
     
     
     
