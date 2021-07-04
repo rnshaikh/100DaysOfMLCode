@@ -110,7 +110,7 @@
    [Probiltiy Distributions](Probability/ReadMe.md)
     Gone through Normal Quantiles Unit.
 
-# Day23 (Statistics:Udacity):
+# Day24 (Statistics:Udacity):
    [Probiltiy Distributions](Probability/ReadMe.md)
     Gone through Hypothesis Test1 And 2 Units.
     
