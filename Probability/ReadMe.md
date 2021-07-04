@@ -338,11 +338,32 @@
     
     CI = MEAN +- 1.96 * square root of sigma2/N
    
-   95% CI = NQ = 1.96
-   90% CI have NQ = 1.64
-   99% CI have NQ = 2.58
-   
-   
+    95% CI = NQ = 1.96
+    90% CI have NQ = 1.64
+    99% CI have NQ = 2.58
+  
+  
+ # Hypothesis Test:
+ 
+    Hypothesis test is checking whether given hypothesis or information is correct or not.
+    
+    there are 2 hypothesis in example.
+    Null Hypothesis -- it is correct hypothesis ex. cancer drug cure 80% of people so p(0.8) is null hypothesis.
+    Alternate Hypothesis -- it is wrong hypothesis ex.  p < 0.8 is alternate hypothesis
+    
+    critical region :
+        when testing hypothesis we check whether sample of events lies in critical region which is boundary of alternate
+        hypothesis.
+        
+        it 5% of bionomial distribution . 0.05 we calculate at what no sample addition of probability is 0.05
+        
+        first calculate bionomial distribution for sample starting from 0 to till last sample. 
+        then we sum binomial distribution of sample which is less than 0.05
+        
+        for cancer example. 
+        1 2 3    4    5    6   7 and so on
+        0 0 0.01 0.01 0.02
+        at 5th hypothesis sums of 0.05 so if 5 patients get cancer out of 10 then hypothesis is failed.
     
     
     
