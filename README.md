@@ -116,7 +116,8 @@
     
 # Day25 (Statistics:Udacity):
   [Probiltiy Distributions](Probability/ReadMe.md)
-   Gone through linear regression and its formula's for finding coeficient.
+   Gone through linear regression and its formula's for finding coeficient. gone through inference more problem
+   on Confidence interval and calculating margin of error as well as sample size.
     
 
     
