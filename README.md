@@ -114,5 +114,9 @@
    [Probiltiy Distributions](Probability/ReadMe.md)
     Gone through Hypothesis Test1 And 2 Units.
     
+# Day25 (Statistics:Udacity):
+  [Probiltiy Distributions](Probability/ReadMe.md)
+   Gone through linear regression and its formula's for finding coeficient.
+    
 
     
