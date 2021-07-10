@@ -373,7 +373,21 @@
     
     
     
-    
+     # Linear Regression:
+     
+        regression is used find relation between 2 attributes of data and predicts the future value.
+        in linear regression we fitt best lined passing through data point and finds noise in data
+        calculate it's coeficient.
+        
+        y = bx + a
+        
+        b= sum of (x-xmean)* (y-ymean)/ sum(x-xmean)2
+        
+        a= ymean-bxmean
+        
+        
+        
+        
     
     
     
