@@ -373,7 +373,7 @@
     
     
     
-     # Linear Regression:
+  # Linear Regression:
      
         regression is used find relation between 2 attributes of data and predicts the future value.
         in linear regression we fitt best lined passing through data point and finds noise in data
