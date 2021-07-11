@@ -118,6 +118,12 @@
   [Probiltiy Distributions](Probability/ReadMe.md)
    Gone through linear regression and its formula's for finding coeficient. gone through inference more problem
    on Confidence interval and calculating margin of error as well as sample size.
-    
+
+
+# Day26 (Statistics:Udacity):
+  [Probiltiy Distributions](Probability/ReadMe.md)
+   Gone through correlation and its formula for finding coeficient. also gone through monty hall 
+   problem of drawing card from 3 door. gone through problem set of linear regression and correlation.
+
 
     
