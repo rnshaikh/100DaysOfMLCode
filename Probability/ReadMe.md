@@ -385,8 +385,16 @@
         
         a= ymean-bxmean
         
-        
-        
+ # correltation:
+    correlation is determined whether 2 variable is related to each other or not.
+    it range between -1 to 1
+    0 mean there is not corelation between given number
+    1 mean positive correlation 
+    -1 mean negative correlation
+    
+    r = sum of (x-xmean) * (y-ymean)/ sq. root of(sum of (x-xmean)2 * sum of(y-ymean)2)
+    
+    
         
     
     
