@@ -385,7 +385,7 @@
         
         a= ymean-bxmean
         
- # correltation:
+ # correlation:
     correlation is determined whether 2 variable is related to each other or not.
     it range between -1 to 1
     0 mean there is not corelation between given number
