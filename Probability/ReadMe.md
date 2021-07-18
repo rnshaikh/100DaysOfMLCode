@@ -394,9 +394,15 @@
     
     r = sum of (x-xmean) * (y-ymean)/ sq. root of(sum of (x-xmean)2 * sum of(y-ymean)2)
     
+    covariance of two related data x,y 
+    cov(x,y) = 1/n sum(x-xmean).sum(y-ymean)
     
+    correlation coeficient r formula with covariance
+    r = cov(x,y)/sigmax * sigmay
         
     
+    In regression constant b is calculated as:
+    b = cov(x,y)/sigma2x
     
     
     
