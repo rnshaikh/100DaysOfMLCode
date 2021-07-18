@@ -126,4 +126,6 @@
    problem of drawing card from 3 door. gone through problem set of linear regression and correlation.
 
 
-    
+# Day26 (Statistics:Udacity):
+  [Probiltiy Distributions](Probability/ReadMe.md)
+   Gone through weight case study and flash crash example.
