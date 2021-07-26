@@ -385,6 +385,14 @@
         
         a= ymean-bxmean
         
+        other formaula of constant b and a
+        
+        b= sum of (x.y) - 1/n * sum(x)*sum(y) / sum(x2) - 1/n (sum(x))2
+        
+        a = 1/n sum(y) - b * 1/n*sum(x)
+        
+        
+        
  # correlation:
     correlation is determined whether 2 variable is related to each other or not.
     it range between -1 to 1
