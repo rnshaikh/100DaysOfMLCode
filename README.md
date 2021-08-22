@@ -129,3 +129,10 @@
 # Day26 (Statistics:Udacity):
   [Probiltiy Distributions](Probability/ReadMe.md)
    Gone through weight case study and flash crash example.
+
+
+# Day27 (Linear Algebra: Linear equation):
+   Gone linear equatio system, to solve variable using gauss's theorm or reduction method and find out 
+   which linear system has no, many and unique solution and its exercise.
+   https://joshua.smcvt.edu/linearalgebra/book.pdf 
+  
