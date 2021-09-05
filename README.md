@@ -135,4 +135,20 @@
    Gone linear equatio system, to solve variable using gauss's theorm or reduction method and find out 
    which linear system has no, many and unique solution and its exercise.
    https://joshua.smcvt.edu/linearalgebra/book.pdf 
-  
+   
+# Day28 (Linear Algebra(hold): Alogrithm):
+   Gone through stanford algorithm part1. divide conquer algorithm, merge sort, 
+   asymptomatic analysis, O notation worst case.
+   
+# Day29 (Alogrithm:stanford algorithm part1):
+    Gone through strassen matrix multplication, closet point pair in x, y plane,
+    kartsuba multiplication
+
+# Day30 (Alogrithm:stanford algorithm part1):
+    Gone through divide conquer algorithm analysis, master theorm 
+    for finding running time of recursive algorithm.
+
+# Day31 (Alogrithm:stanford algorithm part1):
+    Gone through quick sort, its implmentation.
+    
+
