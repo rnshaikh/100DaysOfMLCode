@@ -66,6 +66,7 @@
     p(>c}neg) = p(>c) * p(tn|>c)
     p(neg) = p(c/neg) + p(>c|neg)
 
+    P(A|B) = P(A^B)/ P(B) = P(A). P(B|A)/ P(B)
 
 
 # Probability Distributions:
