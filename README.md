@@ -150,5 +150,26 @@
 
 # Day31 (Alogrithm:stanford algorithm part1):
     Gone through quick sort, its implmentation.
-    
 
+# Day32-36 (Alogrithm:stanford algorithm part1):
+    Gone through randomize selection algorithm and it is problem
+    getting ith order statistic from unsorted array
+
+# Day 36-44 (Alogrithm:stanford algorithm part1):
+    Gone through Graph implementation, Graph search 
+    DFS, BFS application. bfs shortest path in undirected graph, bfs connected component
+    in undirected graph. dfs topological sorting , connected component in directed acyclic graph
+    kosaraju algorithm
+# Day 44-47 (Alogrithm:stanford algorithm part1):
+    Gone through Shortest Path algorithm Dijkstras,
+    Greedy Algorithm , use of heap in dijstras to get logarithmic time
+    
+# Day 47-55 (Alogrithm:stanford algorithm part1):
+    Gone through Heap data structure its implementation.
+    max heap, heap sort.
+    
+# Day 55-60 (Alogrithm:stanford algorithm part1):
+    Gone through Binary search tree its implementation,
+    black-red binary search tree and its implementation.
+    Hash table data structure.
+ 
