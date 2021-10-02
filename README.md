@@ -172,4 +172,16 @@
     Gone through Binary search tree its implementation,
     black-red binary search tree and its implementation.
     Hash table data structure.
+
+# Day 60 - 65(Algorithm:Stanford algorithm part1- final):
+    Gone through Hash tables data structure, load factor,
+    universal hashing defination, proof of u hashing in chaining and 
+    open addressing, bloom filters.
+
+# Day61 (Alglorithms: Stanford algorithm part2)):
+    Gone through greedy alogirhtm basics, 
+    scheduling problem and its correctness.
+   
+
+
  
