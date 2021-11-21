@@ -181,6 +181,10 @@
 # Day61 (Alglorithms: Stanford algorithm part2)):
     Gone through greedy alogirhtm basics, 
     scheduling problem and its correctness.
+
+# Day62- 90 (Algorithm: stanford algorithm part2)):
+    Gone through dynamic programming, greedy algorithms,
+    backtracking.
    
 
 
